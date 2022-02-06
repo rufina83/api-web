@@ -1,0 +1,11 @@
+.product {
+    width:20rem;
+}
+
+.product img {
+    max-height:25rem;
+}
+
+
+
+/* db.products.insert({"price":599.79,"title":"Sisely Skin Cream","imgUrl":"https://wardrobeicons.com/wp-content/uploads/2020/01/sisley-body-cream-1.jpg"}) */
